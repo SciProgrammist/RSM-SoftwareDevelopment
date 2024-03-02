@@ -708,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danie\\Downloads\\RSM Intership\\Coding\\prework\\minimal API\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\danie\\Downloads\\RSM Intership\\Coding\\prework\\Session 02 Minimal API\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\danie\\Downloads\\RSM Intership\\Coding\\prework\\minimal API\\TodoApi\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\danie\\Downloads\\RSM Intership\\Coding\\prework\\Session 02 Minimal API\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danie\\Downloads\\RSM Intership\\Coding\\prework\\minimal API\\TodoApi\\obj\\",
+      "outputPath": "C:\\Users\\danie\\Downloads\\RSM Intership\\Coding\\prework\\Session 02 Minimal API\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",

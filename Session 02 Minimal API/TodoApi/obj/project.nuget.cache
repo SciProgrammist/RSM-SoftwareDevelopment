@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HCPKWm9Va0Vr3FQNmcNf4VuCntiEmF/i2GB8jQequTjwUVBmREvQSoCIQ8L8Fn+YdNVE9305E0X5XdNvFh4u6A==",
+  "dgSpecHash": "oF7KfkSGQtxcERe6FrIMQRbw5H4gGX9qHWNP2NZiPZvRd03lK21KVAoEDd8ynU5N8ijGfC87NXCJOIsTN1e3Hw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danie\\Downloads\\RSM Intership\\Coding\\prework\\minimal API\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\danie\\Downloads\\RSM Intership\\Coding\\prework\\Session 02 Minimal API\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\8.0.2\\microsoft.aspnetcore.diagnostics.entityframeworkcore.8.0.2.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.2\\microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
